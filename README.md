@@ -1,6 +1,6 @@
 # Meme-Generator
 
-This a project develope to generator memes, used to study Docker, Docker compose, 
+This a project develope to generate memes, used to study Docker, Docker compose, 
 can use this project in any system that you like and it was developed first in Linux.
 
 <h3>## Used tools:</h3>
