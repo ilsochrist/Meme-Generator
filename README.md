@@ -2,7 +2,7 @@
 
 This a project develope to generate memes, this is web and mobile application for administrative control of web applications. Used to study Docker, Docker compose, you can use this project in any system that you like and it was developed first in Linux.
 
-<h3>## Used tools:</h3>
+<h3>Used tools:</h3>
 <ul>
 <li>JavaScript</li>
 <li>Docker Compose</li>
